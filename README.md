@@ -1,5 +1,6 @@
 - Este é um projeto para testar meus conhecimentos que utiliza Python e Django para cadastrar Matérias, Alunos e Professores.
-- Para instalar em sua máquina siga os seguintes passos:
+- Para instalar em sua máquina siga os seguintes passos
+  
   1° - Faça um git pull;
   2° - Crie um ambiente virtual no diretório do projeto:
         -> python3 -m venv venv
